@@ -7,6 +7,8 @@ public class caculate_Multipilication {
 		// TODO Auto-generated method stub
 		Scanner scanner= new Scanner(System.in);
 
+		//i m testing 
+		
 
 		   Scanner myNewScanner = new Scanner(System.in);
 				
