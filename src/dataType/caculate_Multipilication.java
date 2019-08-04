@@ -8,7 +8,7 @@ public class caculate_Multipilication {
 		Scanner scanner= new Scanner(System.in);
 
 		//i m testing 
-		
+		//i am testing again
 
 		   Scanner myNewScanner = new Scanner(System.in);
 				

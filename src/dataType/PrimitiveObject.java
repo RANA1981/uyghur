@@ -20,7 +20,7 @@ public class PrimitiveObject {
 		 int maxValue=Integer.MAX_VALUE;
 		 System.out.println(maxValue);
 		 
-		// String str="true";
+		// String string="true";
 		 String a = new String();
 		 
 		 
@@ -32,7 +32,7 @@ public class PrimitiveObject {
 		 System.out.println(maxvalue);
 		 
 	
-		 short MOHAMMAD= Short.MAX_VALUE;
+		 short L= Short.MAX_VALUE;
 		 
 				 
 		 
